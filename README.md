@@ -1,4 +1,4 @@
-# vertical-application
+# xx平台
 
 > xx平台
 
