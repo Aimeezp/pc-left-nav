@@ -75,7 +75,7 @@ export default {
     };
     return {
       logining: false,
-      tipError: "验证码不能为空!", // 错误提示
+      tipError: "验证码不能为空!", // 错误提示语
       ruleForm: {
         account: "admin",
         checkPass: "admin",
